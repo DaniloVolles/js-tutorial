@@ -1,0 +1,9 @@
+Boa prática:
+    - Colocar o <script> no final da sessão <body>.
+    - Existem duas possibilidades, colocar na head, ou no body.
+        - Se colocar no Head, o programa vai ficar lento executando o script antes de carregar a página.
+        - Colocando o script no final da body section nós temos uma maior fluidez da aplicação rodando.
+    - Existem exceções em que o código precisa estar no head
+
+
+
