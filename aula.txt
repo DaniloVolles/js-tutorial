@@ -5,5 +5,7 @@ Boa prática:
         - Colocando o script no final da body section nós temos uma maior fluidez da aplicação rodando.
     - Existem exceções em que o código precisa estar no head
 
-
+Utilizar o node para rodar o código JS
+    - O node utiliza o v8 do chromium para executar código JS
+    - Com ele, você não precisa de um browser pra executar JS
 
